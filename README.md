@@ -20,5 +20,8 @@ Q&A Slide – Thank you + Questions.* and should i include all our team member n
 
 
 yep include them at the start of the ppt after the project name, otherwise you can include a seperate slide right before the Thank you slide and also include what each member did(this is optional).
+
+
+
 ok fine. i will include what i have told before
 
