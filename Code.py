@@ -1,5 +1,6 @@
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder
+from sklearn.model_selection import train_test_split
 
 # Load the dataset
 df = pd.read_excel(
@@ -44,6 +45,22 @@ df_processed = pd.get_dummies(df_processed, columns=['Test Results'], prefix='Te
 le = LabelEncoder()
 df_processed['Gender_encoded'] = le.fit_transform(df_processed['Gender'])
 
+# -------------------- Train-Test Split --------------------
+# Example: Suppose target column is 'Billing Amount' (replace with your target)
+X = df_processed.drop(columns=['Billing Amount'])   # Features
+y = df_processed['Billing Amount']                  # Target
+
+# Split data into train & test (80% train, 20% test)
+X_train, X_test, y_train, y_test = train_test_split(
+    X, y, test_size=0.2, random_state=42
+)
+
+print("\nShapes of Train/Test Split:")
+print("X_train:", X_train.shape)
+print("X_test:", X_test.shape)
+print("y_train:", y_train.shape)
+print("y_test:", y_test.shape)
+# ----------------------------------------------------------
 
 # Save preprocessed file
 excel_file = "healthcare_dataset_preprocessed.xlsx"
