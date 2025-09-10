@@ -1,2 +1,2 @@
 # Infosys-milestone
-Shivam will you include regression in this?
+i dont think its required, i have just added the train, test and spilt in the code thats it
