@@ -17,3 +17,6 @@ Results & Insights – Key findings from the data (trends, predictions, efficien
 Applications for Infosys in Healthcare – How Infosys can leverage this analysis for digital transformation, hospital management solutions, predictive analytics.
 Conclusion & Future Scope – Summarize insights and mention possible future work.
 Q&A Slide – Thank you + Questions.* and should i include all our team member names right
+
+
+yep include them at the start of the ppt after the project name, otherwise you can include a seperate slide right before the Thank you slide and also include what each member did(this is optional).
