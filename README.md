@@ -28,4 +28,4 @@ ok fine. i will include what i have told before
 Ok!!
 
 
-can you upload the outputs of the code
+I have uploaded the ppt once can you check
