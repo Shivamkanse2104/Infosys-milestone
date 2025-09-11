@@ -32,3 +32,5 @@ I have uploaded the ppt once can you check
 
 
 The ppt is great, but i think you can also add another slide after the advantages and put in some other applications where this metho can be used and help in other real world problems.
+
+I thought of explaining it orally 
