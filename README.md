@@ -48,3 +48,6 @@ He said that the presentation was great and well prepared, the only issue was th
 after this group??
 
 Yes after this group.
+
+ok.sorry for inconvience.its raining in my place and my wifi and signals both are having issues.
+
