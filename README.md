@@ -52,3 +52,5 @@ Yes after this group.
 ok.sorry for inconvience.its raining in my place and my wifi and signals both are having issues.
 
 no dont worry everything is fine, evrything went well.
+
+guys the github does not give any notifications if you guys dont have any problem would you like to share numbers
