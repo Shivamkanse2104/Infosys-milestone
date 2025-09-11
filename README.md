@@ -44,3 +44,5 @@ Yeah but little tensed
 Shivam what sir told
 
 He said that the presentation was great and well prepared, the only issue was that you were facing a little network problem so he asked me to present the ppt dont worry overall you did great 
+
+after this group??
