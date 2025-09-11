@@ -23,6 +23,7 @@ yep include them at the start of the ppt after the project name, otherwise you c
 
 
 
+
 ok fine. i will include what i have told before
 
 Ok!!
@@ -36,3 +37,6 @@ The ppt is great, but i think you can also add another slide after the advantage
 I thought of explaining it orally 
 
 ok thats not a problem you can do it anyway you want. Have you prepared for the presentation??
+
+
+Yeah but little tensed
