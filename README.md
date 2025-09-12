@@ -56,3 +56,6 @@ no dont worry everything is fine, evrything went well.
 guys the github does not give any notifications if you guys dont have any problem would you like to share numbers
 
 whats happeneing right now what did they say till now??
+
+today sir is absent.so that sir told that ,today session that will take over by mam. then mam told to present the team 4 to present the project and now the team 5 doing there presentation
+
