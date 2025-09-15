@@ -62,3 +62,5 @@ today sir is absent.so that sir told that ,today session that will take over by 
 Bruh i messed up today i didnt see the time and i went to the hospital. 9951510421 this is my number if anyone have any doubts or questions just text me
 
 And yes dont let sir or anyone know that i just shared my number or else i will be dead they will not leave me 
+
+Guys im Jahnavi. Tomorrow im having an interview to attend. So i will be available to do my part of project from wednesday onwards. Is that ok?
