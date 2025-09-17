@@ -63,3 +63,5 @@ Bruh i messed up today i didnt see the time and i went to the hospital. 99515104
 
 And yes dont let sir or anyone know that i just shared my number or else i will be dead they will not leave me 
 
+guys anyone run and get output for yesterday's semantic graphs program.If you run and get the output can share that code in this repo.
+
