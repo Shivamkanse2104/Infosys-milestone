@@ -68,3 +68,5 @@ guys anyone run and get output for yesterday's semantic graphs program.If you ru
 What need to do for the 3rd mildstone i didnt understand??
 
 sorry guys i couldn't focus on what tasks sir gave us and what we need to do so if its possible can someone explain whats going on.
+
+same i too didnt understand what kind of data collection need to do??What is our project is about
