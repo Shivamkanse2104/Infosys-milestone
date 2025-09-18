@@ -65,3 +65,5 @@ And yes dont let sir or anyone know that i just shared my number or else i will 
 
 guys anyone run and get output for yesterday's semantic graphs program.If you run and get the output can share that code in this repo.
 
+What need to do for the 3rd mildstone i didnt understand
+
