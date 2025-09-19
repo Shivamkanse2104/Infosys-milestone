@@ -72,3 +72,6 @@ sorry guys i couldn't focus on what tasks sir gave us and what we need to do so 
 same i too didnt understand what kind of data collection need to do??What is our project is about
 
 yaa same i dont even know what i have to do i only understood that i have to give the presentation
+
+
+i think poojesh knows
