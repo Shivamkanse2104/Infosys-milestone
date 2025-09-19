@@ -80,4 +80,8 @@ i think poojesh knows
 poobeshh can you please help us two with whats happening
 
 and also drop here what are their works too 
+
 SaiTejaswi - data collection and preprocessing
+Poobeshraj - Named Entity Recognition
+Jahnavi - Semantic Map
+Shivam - PPT
