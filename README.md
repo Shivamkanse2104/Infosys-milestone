@@ -88,3 +88,6 @@ Poobeshraj - Named Entity Recognition
 Jahnavi - Semantic Map
 
 Shivam - PPT
+
+i know i have to do the presentation but what should i do the presentation about i dont even know the topic or the work for the milestone
+
