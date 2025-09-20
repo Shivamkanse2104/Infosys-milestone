@@ -101,4 +101,6 @@ I think the works were splitted and mentioned above.
 guys kindly mention ur names while text, so that is easy to identify you
 for data collection , sir has mentioned some websites.
 hope I shared everything what sir has told...
+ 
+ok.This is Tejaswi. my work is to collect the data set and preprocess it.i have exam on Monday. is that okay if I do my work on monday.
 
