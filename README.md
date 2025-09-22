@@ -124,3 +124,6 @@ I would have really liked to help but me myself am going through a lot of projec
 guys once check if dataset if fine i will go with preprocessing
 
 Pooboo share the pdf naa
+
+i have uploaded the data set and preprocessing thing
+
