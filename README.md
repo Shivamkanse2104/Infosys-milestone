@@ -120,3 +120,6 @@ this is poobesh, tejaswi sir told that the data set contain 100+ or 200+ sentanc
 ok I will send tonight
 
 I would have really liked to help but me myself am going through a lot of projects and tomorrow i have a project expo and day after tomorrow Smart india hackathon round 2 for me, i am really sorry tejaswi. and poobesh can you share me the ppt pdf
+
+guys once check if dataset if fine i will go with preprocessing
+
