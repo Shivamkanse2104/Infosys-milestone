@@ -111,3 +111,8 @@ Thanks poobesh I have exam tomorrow also my faculty told suddenly today I will u
 This is Shivam, my work is ppt and presentation i think. poobesh can you tell me the topic and points like what we are using, why and everything in detail that i need to put in the ppt so i can make it look clear and proper for the presentation
 
 Shivam is it possible for u to do preprocessing.because I have important exam that the only reason I am asking for help.
+
+this is poobesh. shivam  the topics are data collection => preprocess =>  Named Entity Recognition => relation extraction => semantic graphs.. I that's all. we want to do it and also i had taken the screen shot of ppt, which sir has shown and explain in the class... if you want can i share that screenshot pdf
+
+this is poobesh, tejaswi sir told that the data set contain 100+ or 200+ sentance in it .. I think so
+
