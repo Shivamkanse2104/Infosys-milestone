@@ -106,3 +106,5 @@ ok.This is Tejaswi. my work is to collect the data set and preprocess it.i have 
 
 This is poobesh. sure , if you have already collected ur dataset,just upload it in repo, if it possible I will do the preprocessing and also my work, orelse you can do it on monday...
 
+Thanks poobesh I have exam tomorrow also my faculty told suddenly today I will upload dataset is it possible for you to make preprocessing?? Can you please help with this
+
