@@ -109,3 +109,5 @@ This is poobesh. sure , if you have already collected ur dataset,just upload it 
 Thanks poobesh I have exam tomorrow also my faculty told suddenly today I will upload dataset is it possible for you to make preprocessing?? Can you please help with this
 
 This is Shivam, my work is ppt and presentation i think. poobesh can you tell me the topic and points like what we are using, why and everything in detail that i need to put in the ppt so i can make it look clear and proper for the presentation
+
+Shivam is it possible for u to do preprocessing.because I have important exam that the only reason I am asking for help.
