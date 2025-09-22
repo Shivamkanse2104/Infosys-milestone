@@ -116,3 +116,6 @@ this is poobesh. shivam  the topics are data collection => preprocess =>  Named 
 
 this is poobesh, tejaswi sir told that the data set contain 100+ or 200+ sentance in it .. I think so
 
+
+ok I will send tonight
+
