@@ -1,0 +1,151 @@
+id,sentence,subject,relation,object,confidence
+1,The Amazon River flows through Brazil (sample 0).,Amazon River,flows_through,Brazil,0.87
+2,Apple Inc (sample 1). is headquartered in Cupertino (sample 1).,Apple Inc.,headquartered_in,Cupertino,0.85
+3,The Eiffel Tower is located in Paris (sample 2).,Eiffel Tower,located_in,Paris,0.72
+4,Mount Everest is part of the Himalayas (sample 3).,Mount Everest,part_of,Himalayas,0.96
+5,Saturn is the sixth planet from the Sun (sample 4).,Saturn,order_from_sun,6,0.78
+6,The Pacific Ocean is the largest ocean (sample 5).,Pacific Ocean,largest_ocean,True,0.79
+7,Mumbai is a city in India (sample 6).,Mumbai,located_in,India,0.87
+8,The movie Inception was directed by Christopher Nolan (sample 7).,Inception,directed_by,Christopher Nolan,0.78
+9,Saturn is the sixth planet from the Sun (sample 8).,Saturn,order_from_sun,6,0.92
+10,Apple Inc (sample 9). is headquartered in Cupertino (sample 9).,Apple Inc.,headquartered_in,Cupertino,0.85
+11,The Great Wall of China is in China (sample 10).,Great Wall of China,located_in,China,0.93
+12,The Nile is the longest river in Africa (sample 11).,Nile,longest_in,Africa,0.83
+13,Saturn is the sixth planet from the Sun (sample 12).,Saturn,order_from_sun,6,0.95
+14,Mozart composed The Magic Flute (sample 13).,Mozart,composed,The Magic Flute,0.89
+15,The Pacific Ocean is the largest ocean (sample 14).,Pacific Ocean,largest_ocean,True,0.76
+16,Shakespeare wrote Hamlet (sample 15).,Shakespeare,wrote,Hamlet,0.83
+17,The Nile is the longest river in Africa (sample 16).,Nile,longest_in,Africa,0.81
+18,Mozart composed The Magic Flute (sample 17).,Mozart,composed,The Magic Flute,0.86
+19,Mozart composed The Magic Flute (sample 18).,Mozart,composed,The Magic Flute,0.86
+20,Apple Inc (sample 19). is headquartered in Cupertino (sample 19).,Apple Inc.,headquartered_in,Cupertino,0.98
+21,The Great Wall of China is in China (sample 20).,Great Wall of China,located_in,China,0.83
+22,The Great Wall of China is in China (sample 21).,Great Wall of China,located_in,China,0.91
+23,Google was founded by Larry Page and Sergey Brin (sample 22).,Google,founded_by,Larry Page; Sergey Brin,0.97
+24,Shakespeare wrote Hamlet (sample 23).,Shakespeare,wrote,Hamlet,0.91
+25,The Eiffel Tower is located in Paris (sample 24).,Eiffel Tower,located_in,Paris,0.76
+26,Shakespeare wrote Hamlet (sample 25).,Shakespeare,wrote,Hamlet,0.92
+27,Mumbai is a city in India (sample 26).,Mumbai,located_in,India,0.73
+28,Barack Obama was born in Honolulu (sample 27).,Barack Obama,born_in,Honolulu,0.94
+29,The Taj Mahal is located in Agra (sample 28).,Taj Mahal,located_in,Agra,0.82
+30,Facebook was founded in 2004 (sample 29).,Facebook,founded_in,2004,0.72
+31,Netflix part of 2004 (sample 30).,Netflix,part_of,2004,0.88
+32,Python tallest in Antarctica (sample 31).,Python,tallest_in,Antarctica,0.92
+33,Sydney part of Paris (sample 32).,Sydney,part_of,Paris,0.87
+34,Netflix capital of Beijing (sample 33).,Netflix,capital_of,Beijing,0.75
+35,Elephant created in Himalayas (sample 34).,Elephant,created_in,Himalayas,0.95
+36,Elephant created in the USA (sample 35).,Elephant,created_in,the USA,0.73
+37,Moon tallest in 2010 (sample 36).,Moon,tallest_in,2010,0.72
+38,Albert Einstein capital of 1976 (sample 37).,Albert Einstein,capital_of,1976,0.92
+39,Atlantic Ocean tallest in Europe (sample 38).,Atlantic Ocean,tallest_in,Europe,0.78
+40,Elephant headquartered in 1998 (sample 39).,Elephant,headquartered_in,1998,0.84
+41,Tesla headquartered in 2004 (sample 40).,Tesla,headquartered_in,2004,0.7
+42,Taj Mahal invented by 1998 (sample 41).,Taj Mahal,invented_by,1998,0.88
+43,C++ discovered in 2010 (sample 42).,C++,discovered_in,2010,0.83
+44,India headquartered in Indian Ocean (sample 43).,India,headquartered_in,Indian Ocean,0.94
+45,Taj Mahal developed in Amazon Rainforest (sample 44).,Taj Mahal,developed_in,Amazon Rainforest,0.71
+46,Lion born in California (sample 45).,Lion,born_in,California,0.78
+47,Lion flows through Himalayas (sample 46).,Lion,flows_through,Himalayas,0.83
+48,Moon operated by Oceania (sample 47).,Moon,operated_by,Oceania,0.78
+49,Netflix largest in Africa (sample 48).,Netflix,largest_in,Africa,0.8
+50,Java operated by Amazon Rainforest (sample 49).,Java,operated_by,Amazon Rainforest,0.95
+51,India founded in Delhi (sample 50).,India,founded_in,Delhi,0.8
+52,Python located in 1998 (sample 51).,Python,located_in,1998,0.83
+53,Python headquartered in Asia (sample 52).,Python,headquartered_in,Asia,0.93
+54,Great Wall of China discovered in Beijing (sample 53).,Great Wall of China,discovered_in,Beijing,0.85
+55,Statue of Liberty flows through Himalayas (sample 54).,Statue of Liberty,flows_through,Himalayas,0.8
+56,Great Wall of China located in Arctic Ocean (sample 55).,Great Wall of China,located_in,Arctic Ocean,0.77
+57,Pacific Ocean located in the USA (sample 56).,Pacific Ocean,located_in,the USA,0.84
+58,Tokyo founded in the USA (sample 57).,Tokyo,founded_in,the USA,0.93
+59,Moon created in Indian Ocean (sample 58).,Moon,created_in,Indian Ocean,0.82
+60,Elephant located in Oceania (sample 59).,Elephant,located_in,Oceania,0.75
+61,Pacific Ocean largest in California (sample 60).,Pacific Ocean,largest_in,California,0.7
+62,Pacific Ocean born in Delhi (sample 61).,Pacific Ocean,born_in,Delhi,0.95
+63,Atlantic Ocean located in Europe (sample 62).,Atlantic Ocean,located_in,Europe,0.86
+64,Taj Mahal operated by Asia (sample 63).,Taj Mahal,operated_by,Asia,0.77
+65,Java invented by the USA (sample 64).,Java,invented_by,the USA,0.99
+66,Tokyo invented by 1976 (sample 65).,Tokyo,invented_by,1976,0.79
+67,YouTube tallest in Delhi (sample 66).,YouTube,tallest_in,Delhi,0.88
+68,Moon operated by Arctic Ocean (sample 67).,Moon,operated_by,Arctic Ocean,0.74
+69,YouTube flows through 2010 (sample 68).,YouTube,flows_through,2010,0.86
+70,Microsoft headquartered in Antarctica (sample 69).,Microsoft,headquartered_in,Antarctica,0.73
+71,Lion flows through Oceania (sample 70).,Lion,flows_through,Oceania,0.76
+72,Netflix located in Beijing (sample 71).,Netflix,located_in,Beijing,0.96
+73,Taj Mahal discovered in 1976 (sample 72).,Taj Mahal,discovered_in,1976,0.92
+74,Microsoft largest in Himalayas (sample 73).,Microsoft,largest_in,Himalayas,0.96
+75,Microsoft part of Europe (sample 74).,Microsoft,part_of,Europe,0.93
+76,Statue of Liberty tallest in Indian Ocean (sample 75).,Statue of Liberty,tallest_in,Indian Ocean,0.86
+77,Netflix flows through Amazon Rainforest (sample 76).,Netflix,flows_through,Amazon Rainforest,0.75
+78,Atlantic Ocean part of Paris (sample 77).,Atlantic Ocean,part_of,Paris,0.93
+79,Moon operated by Himalayas (sample 78).,Moon,operated_by,Himalayas,0.8
+80,Great Wall of China part of Delhi (sample 79).,Great Wall of China,part_of,Delhi,0.82
+81,C++ flows through Paris (sample 80).,C++,flows_through,Paris,0.92
+82,Lion founded in 1998 (sample 81).,Lion,founded_in,1998,0.8
+83,Microsoft discovered in Paris (sample 82).,Microsoft,discovered_in,Paris,0.8
+84,Albert Einstein largest in the USA (sample 83).,Albert Einstein,largest_in,the USA,0.86
+85,Google operated by Beijing (sample 84).,Google,operated_by,Beijing,0.99
+86,C++ founded in Arctic Ocean (sample 85).,C++,founded_in,Arctic Ocean,0.71
+87,Elephant created in Oceania (sample 86).,Elephant,created_in,Oceania,0.86
+88,Taj Mahal capital of Himalayas (sample 87).,Taj Mahal,capital_of,Himalayas,0.97
+89,Java largest in the USA (sample 88).,Java,largest_in,the USA,0.79
+90,Mars capital of Beijing (sample 89).,Mars,capital_of,Beijing,0.96
+91,Netflix discovered in Himalayas (sample 90).,Netflix,discovered_in,Himalayas,0.77
+92,Atlantic Ocean capital of 1976 (sample 91).,Atlantic Ocean,capital_of,1976,0.71
+93,Elephant created in Asia (sample 92).,Elephant,created_in,Asia,0.74
+94,Pacific Ocean tallest in Antarctica (sample 93).,Pacific Ocean,tallest_in,Antarctica,0.73
+95,Tesla operated by California (sample 94).,Tesla,operated_by,California,0.73
+96,Google developed in 2004 (sample 95).,Google,developed_in,2004,0.84
+97,Mount Fuji developed in 1976 (sample 96).,Mount Fuji,developed_in,1976,0.98
+98,Albert Einstein invented by Berlin (sample 97).,Albert Einstein,invented_by,Berlin,0.79
+99,Moon part of Paris (sample 98).,Moon,part_of,Paris,0.83
+100,Mount Fuji developed in Paris (sample 99).,Mount Fuji,developed_in,Paris,0.95
+101,Google operated by Arctic Ocean (sample 100).,Google,operated_by,Arctic Ocean,0.94
+102,Atlantic Ocean born in 2004 (sample 101).,Atlantic Ocean,born_in,2004,0.77
+103,Sydney tallest in Delhi (sample 102).,Sydney,tallest_in,Delhi,0.76
+104,London capital of Beijing (sample 103).,London,capital_of,Beijing,0.91
+105,Tokyo headquartered in 1976 (sample 104).,Tokyo,headquartered_in,1976,0.98
+106,Netflix discovered in New York (sample 105).,Netflix,discovered_in,New York,0.88
+107,Mars part of Paris (sample 106).,Mars,part_of,Paris,0.89
+108,Great Wall of China created in Delhi (sample 107).,Great Wall of China,created_in,Delhi,0.8
+109,London operated by 1976 (sample 108).,London,operated_by,1976,0.7
+110,Great Wall of China created in Asia (sample 109).,Great Wall of China,created_in,Asia,0.93
+111,Elephant founded in Indian Ocean (sample 110).,Elephant,founded_in,Indian Ocean,0.85
+112,Microsoft founded in Antarctica (sample 111).,Microsoft,founded_in,Antarctica,0.88
+113,Mount Fuji developed in California (sample 112).,Mount Fuji,developed_in,California,0.9
+114,India largest in Arctic Ocean (sample 113).,India,largest_in,Arctic Ocean,0.99
+115,Atlantic Ocean capital of Beijing (sample 114).,Atlantic Ocean,capital_of,Beijing,0.72
+116,Moon tallest in 1976 (sample 115).,Moon,tallest_in,1976,0.76
+117,Mount Fuji part of Berlin (sample 116).,Mount Fuji,part_of,Berlin,0.81
+118,Elephant largest in the USA (sample 117).,Elephant,largest_in,the USA,0.77
+119,Statue of Liberty born in Indian Ocean (sample 118).,Statue of Liberty,born_in,Indian Ocean,0.71
+120,Tokyo headquartered in 2004 (sample 119).,Tokyo,headquartered_in,2004,0.95
+121,Python founded in the USA (sample 120).,Python,founded_in,the USA,0.73
+122,Amazon part of Himalayas (sample 121).,Amazon,part_of,Himalayas,0.87
+123,Sydney part of Beijing (sample 122).,Sydney,part_of,Beijing,0.75
+124,India born in 2010 (sample 123).,India,born_in,2010,0.87
+125,India born in Delhi (sample 124).,India,born_in,Delhi,0.93
+126,Python headquartered in the USA (sample 125).,Python,headquartered_in,the USA,0.99
+127,Microsoft invented by Africa (sample 126).,Microsoft,invented_by,Africa,0.72
+128,Moon discovered in Arctic Ocean (sample 127).,Moon,discovered_in,Arctic Ocean,0.73
+129,Mount Fuji capital of Europe (sample 128).,Mount Fuji,capital_of,Europe,0.85
+130,Statue of Liberty developed in Oceania (sample 129).,Statue of Liberty,developed_in,Oceania,0.78
+131,Microsoft headquartered in Himalayas (sample 130).,Microsoft,headquartered_in,Himalayas,0.83
+132,Elephant discovered in Berlin (sample 131).,Elephant,discovered_in,Berlin,0.84
+133,Google operated by 1998 (sample 132).,Google,operated_by,1998,0.95
+134,Mars operated by Berlin (sample 133).,Mars,operated_by,Berlin,0.87
+135,Sydney largest in Arctic Ocean (sample 134).,Sydney,largest_in,Arctic Ocean,0.9
+136,China developed in California (sample 135).,China,developed_in,California,0.86
+137,China discovered in Beijing (sample 136).,China,discovered_in,Beijing,0.89
+138,Sydney invented by Amazon Rainforest (sample 137).,Sydney,invented_by,Amazon Rainforest,0.96
+139,Sydney largest in Europe (sample 138).,Sydney,largest_in,Europe,0.75
+140,Google operated by Delhi (sample 139).,Google,operated_by,Delhi,0.88
+141,Microsoft invented by Arctic Ocean (sample 140).,Microsoft,invented_by,Arctic Ocean,0.96
+142,Albert Einstein flows through Oceania (sample 141).,Albert Einstein,flows_through,Oceania,0.83
+143,Great Wall of China developed in Delhi (sample 142).,Great Wall of China,developed_in,Delhi,0.96
+144,Java part of Asia (sample 143).,Java,part_of,Asia,0.97
+145,Pacific Ocean operated by Delhi (sample 144).,Pacific Ocean,operated_by,Delhi,0.93
+146,London largest in Himalayas (sample 145).,London,largest_in,Himalayas,0.72
+147,Tokyo headquartered in Arctic Ocean (sample 146).,Tokyo,headquartered_in,Arctic Ocean,0.77
+148,YouTube founded in 1998 (sample 147).,YouTube,founded_in,1998,0.86
+149,Pacific Ocean born in 1976 (sample 148).,Pacific Ocean,born_in,1976,0.74
+150,Statue of Liberty developed in California (sample 149).,Statue of Liberty,developed_in,California,0.79
