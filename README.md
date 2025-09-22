@@ -127,7 +127,7 @@ Pooboo share the pdf naa
 
 i have uploaded the data set and preprocessing thing
 
-shivam I have upload it
+shivam , the screenshot that I have taken I send it.check milestone3 pdf
  
 
 is that data set is fine
