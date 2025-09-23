@@ -175,3 +175,5 @@ This is Jahnavi. Due to the heavy rains, im facing some issues with our home wif
 yes, may be it contain duplicates or not fit for triples... alright it has 121 triples.. whether it is fine
 
 yaa fine
+
+guys i am uploading the ppt for the 3rd milestone can you guys check on it
