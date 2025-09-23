@@ -146,4 +146,9 @@ i have changed the dataset can you check is it fine??
 is the dataset now called wikipedia??
 
 yes
+Removed unwanted characters → deleted strange/unicode symbols.
+Normalized spaces → extra spaces/tabs collapsed into one space.
+Lowercased → all words converted to lowercase for uniformity.
+Kept useful punctuation → . , ; : ' " - ? ! () kept, others removed.
+Sentence ending check → ensured each sentence ends with . . i have done this in preprocessing
 
