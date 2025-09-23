@@ -160,3 +160,6 @@ Important historical events (World War I, Industrial Revolution, Renaissance, et
 Classic literature works (Hamlet, Don Quixote, Pride and Prejudice, etc.)
 Notable places (Paris, London, Rome, New York, etc.)
 Prestigious institutions (MIT, University of Cambridge, CERN, etc.)
+
+this is poobesh, I had update the code in the semantic_code.py file, Jahnavi Lakshmi can you check the code Whether it is fine to do your part of the code
+Tejaswi, the dataset is fine, but if I import the dataset only 121 triples can be created , If you free can you check it... 
