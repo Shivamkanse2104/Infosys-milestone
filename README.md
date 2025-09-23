@@ -136,3 +136,5 @@ This is poobesh ,in that dataset the sentance and _preprocessed_text coloum has 
 i think i want to remove the word sample
 
 yaa sorry I haven't seen that.
+
+Guys could you specify what files are of milestone 3
