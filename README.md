@@ -180,3 +180,6 @@ guys i am uploading the ppt for the 3rd milestone can you guys check on it
 
 i think if you add some photos it will be much better
 
+This is Jahnavi. Shivam, I have completed the last part(Semantic Map generation) and updated the semantic_code.py file.
+And for PPT the outputs of dataset and streamlit app, sematic map need to be added.
+Should i share the screenshots of the app,semantic map or will you run the code and do it by yourself.
