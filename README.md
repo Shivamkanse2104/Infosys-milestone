@@ -142,3 +142,5 @@ Guys could you specify what files are of milestone 3
 In semantic_code.py we use it for codes and the dataset is not ready, the datasets => Infosys_dataset_expanded.csv and infosys_preprocessed_full.csv is not in the format... i think Tejaswi will modify that datasets
 
 i have changed the dataset can you check is it fine??
+
+is the dataset now called wikipedia??
