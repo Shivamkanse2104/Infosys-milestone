@@ -153,3 +153,10 @@ Kept useful punctuation → . , ; : ' " - ? ! () kept, others removed.
 Sentence ending check → ensured each sentence ends with . . i have done this in preprocessing
 
 can you tell me what is the dataset based on??
+
+Famous scientists (Einstein, Marie Curie, Newton, Darwin, etc.)
+Scientific theories (relativity, evolution, quantum mechanics, atomic theory, etc.)
+Important historical events (World War I, Industrial Revolution, Renaissance, etc.)
+Classic literature works (Hamlet, Don Quixote, Pride and Prejudice, etc.)
+Notable places (Paris, London, Rome, New York, etc.)
+Prestigious institutions (MIT, University of Cambridge, CERN, etc.)
