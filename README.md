@@ -176,4 +176,7 @@ yes, may be it contain duplicates or not fit for triples... alright it has 121 t
 
 yaa fine
 
-guys i am uploading the ppt for the 3rd milestone can you guys check on it
+guys i am uploading the ppt for the 3rd milestone can you guys check on it 
+
+i think if you add some photos it will be much better
+
