@@ -144,3 +144,6 @@ In semantic_code.py we use it for codes and the dataset is not ready, the datase
 i have changed the dataset can you check is it fine??
 
 is the dataset now called wikipedia??
+
+yes
+
