@@ -132,3 +132,5 @@ shivam , the screenshot that I have taken I send it.check milestone3 pdf
 
 is that data set is fine
 
+This is poobesh ,in that dataset the sentance and _preprocessed_text coloum has end with the word sample, if i import that file and run code it shows "sample" word  as an entity...
+i think i want to remove the word sample
