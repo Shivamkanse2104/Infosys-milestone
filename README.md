@@ -166,6 +166,8 @@ Tejaswi, the dataset is fine, but if I import the dataset only 121 triples can b
 
 guys can someone share any images of the output like the graph or something
 
-i can complete the my work, that is  Named Entity Recognition and load the triples..
+i had complete the my work, that is  Named Entity Recognition and load the triples.. can i share the screenshot shivam
 
 i think it contain some duplicates sentences. it is showing only once i guess
+
+
