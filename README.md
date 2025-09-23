@@ -170,4 +170,4 @@ i had complete the my work, that is  Named Entity Recognition and load the tripl
 
 i think it contain some duplicates sentences. it is showing only once i guess
 
-
+This is Jahnavi. Due to the heavy rains, im facing some issues with our home wifi and cant perform multiple tasks in laptop using mobile data. I will complete the semantic maps part and update the file by the end of the day. Is that ok?
