@@ -128,3 +128,5 @@ yeah, fine.
 This is Jahnavi. I have updated the code to include the search box and print the top 5 matchs. Can anyone check whether it is fine.
 
 this is poobesh, it's okay, others also can check it.. Jahnavi, when we search the query in the search box, then the semantic map will appear.. right.. but the semantic map is appeared before we search the qurey... whether it is okay or not....
+
+This is Jahnavi. I think semantic map is a graphical representation of the triples. Here we are just adding an extra feature for searching the top 5 matches. So i think its ok to represent it before the search and after the search by highliting the nodes. Others also can check and confirm if its ok or not. 
