@@ -127,4 +127,4 @@ yeah, fine.
 
 This is Jahnavi. I have updated the code to include the search box and print the top 5 matchs. Can anyone check whether it is fine.
 
-this is poobesh, it is okay, others also can check it..
+this is poobesh, it's okay, others also can check it.. Jahnavi, when we search the query in the search box, then the semantic map will appear.. right.. but the semantic map is appeared before we search the qurey... whether it is okay or not....
