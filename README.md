@@ -132,3 +132,5 @@ this is poobesh, it's okay, others also can check it.. Jahnavi, when we search t
 This is Jahnavi. I think semantic map is a graphical representation of the triples. Here we are just adding an extra feature for searching the top 5 matches. So i think its ok to represent it before the search and after the search by highliting the nodes. Others also can check and confirm if its ok or not.
 
 This is Tejaswi. I think it's fine
+
+this is poobesh. alright, it's okay..
