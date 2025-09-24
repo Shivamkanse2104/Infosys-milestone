@@ -187,3 +187,5 @@ Should i share the screenshots of the app,semantic map or will you run the code 
 this is poobesh. Jahnavi, in that code execution " Enter your search query " is not appear , only Semantic map is shown.. i think the search box is not there , can you or anyone check with that code... 
 
 this is jahnavi. yeah i will add the search box and update the code by afternoon.
+
+yeah, fine.
