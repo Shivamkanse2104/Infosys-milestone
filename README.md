@@ -134,3 +134,5 @@ This is Jahnavi. I think semantic map is a graphical representation of the tripl
 This is Tejaswi. I think it's fine
 
 this is poobesh. alright, it's okay..
+
+guys what changes should i make in the ppt
