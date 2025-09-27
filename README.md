@@ -143,3 +143,5 @@ Should i share the screenshots of the app,semantic map or will you run the code 
 share the screenshots i will make the changes 
 
 @jahnavi
+
+This is jahnavi. I have uploaded the screenshots. Everyone check once and tell me if there is anything i can add.
