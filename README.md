@@ -145,3 +145,5 @@ share the screenshots i will make the changes
 @jahnavi
 
 This is jahnavi. I have uploaded the screenshots. Everyone check once and tell me if there is anything i can add.
+
+guys have a look at the ppt i have made the changes and added only 2 screeshots as we need to keep it minimal
