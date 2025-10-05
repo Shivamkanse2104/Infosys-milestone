@@ -154,4 +154,4 @@ Tejaswi -ppt
 
 Poobeshraj => Deployment
 
-
+Jahnavi - Query answering and domain linking
