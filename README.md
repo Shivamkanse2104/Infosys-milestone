@@ -149,4 +149,5 @@ This is jahnavi. I have uploaded the screenshots. Everyone check once and tell m
 guys have a look at the ppt i have made the changes and added only 2 screeshots as we need to keep it minimal
 
 
-what we have to do for milestone 4??
+can you send the roles of yours for 4th milestone??
+Tejaswi -ppt
