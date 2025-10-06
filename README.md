@@ -168,3 +168,5 @@ okay
 can you share the pics what are things shoulld include in ppt 
 
 did shivam completed 1st part?
+
+Jahnavi.. i can upload a sample code file.. in that i update the milestone 4 model... if it is okay you can copy that code into the milestone3_code.py file
