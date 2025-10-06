@@ -157,3 +157,6 @@ Poobeshraj => Deployment
 Jahnavi - Query answering and domain linking
 
 poobesh or jahnavi can any one tell what need to do for milestone 4 I didn't understand when sir told
+
+we want to do the 1.centrality and community 2. Query answering and domain linking 3. Deployment 4. ppt
+i think we want to use the same milestone 3 code for the milestone 4... and add the milestone 4 models... whether it is right!!!
