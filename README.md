@@ -188,4 +188,5 @@ once done can you add output images so that i will include them in ppt
 Jahnavi... I think it is okay.. whether others also verify it..
 Jahnavi... can you update that code in milestone4_code.py
 
-Okay i will update milestone4_code.py. Shivam and tejaswi once check and conform is there anything to change or add.
+Okay i have updated milestone4_code.py. Shivam and tejaswi once check and conform is there anything to change or add.
+and tejaswi i think it will be better if you run the code on your laptop and take the screenshot based on the ppt requirement and space available. If you have any issues while running the code then i will share the screenshots.
