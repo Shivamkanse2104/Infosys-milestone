@@ -162,3 +162,7 @@ we want to do the 1.centrality and community 2. Query answering and domain linki
 i think we want to use the same milestone 3 code for the milestone 4... and add the milestone 4 models... whether it is right!!!
 
 guys... we can do the code in milestone4_code.py... it is okay
+
+okay
+
+can you share the pics what are things shoulld include in ppt 
