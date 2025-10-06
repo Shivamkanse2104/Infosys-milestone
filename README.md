@@ -166,3 +166,5 @@ guys... we can do the code in milestone4_code.py... it is okay
 okay
 
 can you share the pics what are things shoulld include in ppt 
+
+did shivam completed 1st part?
