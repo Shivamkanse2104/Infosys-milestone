@@ -174,3 +174,5 @@ Jahnavi.. i can upload a sample code file.. in that i update the milestone 4 mod
 i have upload the sample6.py code file.... can any one check that code, whether it is okay
 
 Everything is fine but i think the answer to the query should be in text formate but its showing in table format. Is that OK? if not i will change the formate to text.
+
+yeah!!.. can you change the formate and update in milestone4_code.py file and than delete sample6.py file
