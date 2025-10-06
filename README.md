@@ -181,4 +181,4 @@ and for using previous dataset triples the streamlit app is showing "no strong s
 
 Jahnavi... can you check the code again in sample6.py file from 217th line... i have update it... if you want to do any changes.. you can made the changes and update it
 
-in that code there is no query answering section. I have updated the sample6.py code from the end of 2nd code. Once have a look whether it is write or not.
+in that code there is no query answering section. I have updated the sample6.py code from the end of 2nd code. Once have a look whether it is write or not. If its ok i will update the milestone4_code.py
