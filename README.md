@@ -185,3 +185,5 @@ in that code there is no query answering section. I have updated the sample6.py 
 
 once done can you add output images so that i will include them in ppt
 
+Jahnavi... I think it is okay.. whether others also verify it..
+Jahnavi... can you update that code in milestone4_code.py
