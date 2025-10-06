@@ -178,3 +178,5 @@ Everything is fine but i think the answer to the query should be in text formate
 yeah!!.. can you change the formate and update in milestone4_code.py file and than delete sample6.py file
 
 and for using previous dataset triples the streamlit app is showing "no strong semantic links found." for cross domain linking.
+
+Jahnavi... can you check the code again in sample6.py file from 217th line... i have update it... if you want to do any changes.. you can made the changes and update it
