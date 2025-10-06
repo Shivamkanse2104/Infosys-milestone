@@ -187,3 +187,5 @@ once done can you add output images so that i will include them in ppt
 
 Jahnavi... I think it is okay.. whether others also verify it..
 Jahnavi... can you update that code in milestone4_code.py
+
+Okay i will update milestone4_code.py. Shivam and tejaswi once check and conform is there anything to change or add.
