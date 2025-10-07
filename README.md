@@ -227,3 +227,7 @@ jahnavi i made the changes can you check once.
 This is shivam, unfortunately, i won't be able to attend not just today but the whole week. i have already informed sir yesterday, but if you guys want to be assured, i will join at 8 and tell sir again and leave. i am really sorry guys, and thank you so much jahnavi for completing my work too, i am really sorry i counld help you guys
 
 Ok shivam . Tejaswi since you only have introduction to explain, can you explain shivams part of ppt also?
+
+yeah sure.the ppt is fine right
+
+
