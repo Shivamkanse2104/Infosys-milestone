@@ -245,3 +245,6 @@ u guys know how to get the create the mit
 guys we want to create a new repository and get a LICENSE....
 and the LICENSE for this repo was already created by shivam.. its right
 
+https://github.com/Shivamkanse2104/Infosys-milestone/blob/main/LICENSE
+this is the link right??
+
