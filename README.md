@@ -205,3 +205,5 @@ haa.
 i have uploaded the ppt once any one can check whether it is fine or not
 
 guys i am sorry for the late response but i think i wont be able to do my role i am having my mid term exams this week and today was the first exam. So i was hoping for any one of you gugys to complete my work for me. i am really sorry guys for the late info.
+
+and to be honest i dont even know what to do in my role. i am really sorry guys for this. i promise i will do it better the next time. please cover for me in this work this once
