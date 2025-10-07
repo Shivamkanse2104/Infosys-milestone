@@ -230,4 +230,4 @@ Ok shivam . Tejaswi since you only have introduction to explain, can you explain
 
 yeah sure.the ppt is fine right
 
-
+yeah its fine
