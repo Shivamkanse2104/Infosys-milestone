@@ -212,3 +212,5 @@ This is Jahnavi. Shivam the project is done. Are you attending todays class? Sir
 And Tejaswi in slide-1 heading insted of 'Cross domain' it was typed 'Domain domain'. After 'query answering' next topic should be 'Domain linking' and then deployment i think. Please make those changes and remaining part is fine for me. 
 
 ok I will do and let u know. and in slide 1 are you telling about main heading??
+
+yes main heading
