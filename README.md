@@ -220,4 +220,5 @@ Milestone 4 – Deployment, Query Answering & Domain Linking i kept this one rig
 Is it? when i downloaded and checked the ppt "Domain" was showed twice. May be it is due to formating change. If its fine in your ppt its fine leave it. But Add "Cross Domain Linking" instead of "Domain linking". and for the output of domain linking section i have uploaded another ss. please delete the previous output and add the new output.
 
 
-Okay. Could you tell me which slides I should explain
+Okay. Could you tell me which slides I should explain. 
+jahnavi i made the changes can you check once.
