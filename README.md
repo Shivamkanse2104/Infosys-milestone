@@ -248,3 +248,5 @@ and the LICENSE for this repo was already created by shivam.. its right
 https://github.com/Shivamkanse2104/Infosys-milestone/blob/main/LICENSE
 this is the link right??
 
+yes... but individual? how to create?
+
