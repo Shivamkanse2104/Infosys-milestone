@@ -214,3 +214,5 @@ And Tejaswi in slide-1 heading insted of 'Cross domain' it was typed 'Domain dom
 ok I will do and let u know. and in slide 1 are you telling about main heading??
 
 yes main heading
+
+Milestone 4 – Deployment, Query Answering & Domain Linking i kept this one right??
