@@ -234,3 +234,4 @@ yeah its fine
 
 okay. now i need to tell upto centrality and community right??
 
+yes
