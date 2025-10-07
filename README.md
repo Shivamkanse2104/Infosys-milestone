@@ -242,3 +242,6 @@ ok
 
 u guys know how to get the create the mit
 
+guys we want to create a new repository and get a LICENSE....
+and the LICENSE for this repo was already created by shivam.. its right
+
