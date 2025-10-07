@@ -195,3 +195,6 @@ and tejaswi i think it will be better if you run the code on your laptop and tak
 I have classes till 5. I’ve already completed the theory part of the PPT and just need to do some editing. I don’t have enough time, which is why I asked you to share the screenshots.
 
 ok. i will upload screenshots.
+
+Thank you so much jahnavi
+
