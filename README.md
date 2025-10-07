@@ -250,3 +250,34 @@ this is the link right??
 
 yes... but individual? how to create?
 
+login to your account there on the top right corner u will see "+" click new repository
+Fill in Repository Details
+Repository name: MIT-License (or anything simple like My-License)
+Description: (optional) “This repository contains my personal MIT License.”
+Visibility: Keep it Public 
+Click Create repository
+Once the repo is created, click “Add file” → “Create new file”
+Name the file : LICENSE
+And paste this text. change the name
+
+Copyright (c) 2025 Kummithi Sai Tejaswi
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+Scroll down and click “Commit new file.”
+Add MIT License.Click the “Commit new file” button.
+
+
