@@ -222,3 +222,6 @@ Is it? when i downloaded and checked the ppt "Domain" was showed twice. May be i
 
 Okay. Could you tell me which slides I should explain. 
 jahnavi i made the changes can you check once.
+
+
+This is shivam, unfortunately, i won't be able to attend not just today but the whole week. i have already informed sir yesterday, but if you guys want to be assured, i will join at 8 and tell sir again and leave. i am really sorry guys, and thank you so much jahnavi for completing my work too, i am really sorry i counld help you guys
