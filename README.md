@@ -280,4 +280,7 @@ SOFTWARE.
 Scroll down and click “Commit new file.”
 Add MIT License.Click the “Commit new file” button.
 
+now we want to mail two links... right
+
+
 
