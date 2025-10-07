@@ -189,4 +189,7 @@ Jahnavi... I think it is okay.. whether others also verify it..
 Jahnavi... can you update that code in milestone4_code.py
 
 Okay i have updated milestone4_code.py. Shivam and tejaswi once check and conform is there anything to change or add.
-and tejaswi i think it will be better if you run the code on your laptop and take the screenshot based on the ppt requirement and space available. If you have any issues while running the code then i will share the screenshots.
+and tejaswi i think it will be better if you run the code on your laptop and take the screenshot based on the ppt requirement and space available. If you have any issues while running the code then i will share the screenshots
+
+
+I have classes till 5. I’ve already completed the theory part of the PPT and just need to do some editing. I don’t have enough time, which is why I asked you to share the screenshots.
