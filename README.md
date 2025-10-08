@@ -289,3 +289,5 @@ who will do ppt for final review and also tell me the problem statement for our 
 This is Saitejaswi. i am doing the ppt. in the final ppt we have to take the wikipedia data set and dataprocessing, ner etc.... right?? . i include the some matter and the output. is that fine or should i add more.or you can share ur thoughts ..
 
 now you want to change the dataset right.... but i need the problem statement
+
+ i think no need to change right??
