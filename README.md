@@ -313,5 +313,6 @@ Tejaswi can you change the template of the ppt. because i think its too simple w
 
 ok fine
 
-guys anyone give me oue problem statement..because i want to do the documentation
+guys anyone give me our problem statement..because i want to do the documentation
+whether anyone create new repo and add other members.. but here is some network isuse
 
