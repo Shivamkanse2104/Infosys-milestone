@@ -305,3 +305,5 @@ this is poobesh... sir told , what i want to do now.. here is some network issus
 sir asked you to create a group repository and add MIT license.
 
 it is already created by shivam.. it is right
+
+jahnavi can you share your thoughts to make the ppt.
