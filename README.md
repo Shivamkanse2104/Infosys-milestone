@@ -325,3 +325,5 @@ ok u prepare for your exams. just share your thoughts to make the ppt.
 Guys i have created the repository and added you as contributors. Once check and accept invites.
 
 yeah ..
+
+did everyone received the invites?
