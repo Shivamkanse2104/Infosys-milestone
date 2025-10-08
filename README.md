@@ -307,3 +307,5 @@ sir asked you to create a group repository and add MIT license.
 it is already created by shivam.. it is right
 
 jahnavi can you share your thoughts to make the ppt.
+
+I think we need to create another repository to include all the milestone codes and all.this repository is containing all right like our conversations, screenshots, sample codes and all. 
