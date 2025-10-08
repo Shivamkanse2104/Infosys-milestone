@@ -286,5 +286,4 @@ yes
 
 who will do ppt for final review and also tell me the problem statement for our project, so that i will do our documentation...
 
-This is Saitejaswi. i am doing the ppt.
-
+This is Saitejaswi. i am doing the ppt. in the final ppt we have to take the wikipedia data set and dataprocessing, ner etc.... right?? . i include the some matter and the output. is that fine or should i add more.or you can share ur thoughts ..
