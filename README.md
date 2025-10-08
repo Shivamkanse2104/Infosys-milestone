@@ -327,3 +327,5 @@ Guys i have created the repository and added you as contributors. Once check and
 yeah ..
 
 did everyone received the invites?
+
+yeah. u just added license and redme right??
