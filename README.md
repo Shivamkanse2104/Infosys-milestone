@@ -297,3 +297,5 @@ I think we need to change the dataset. Because the triples are not so meaningful
 if we change the dataset.we need to change everything right??
 
 ok then lets not change the dataset.
+
+haa.it is fine right??
