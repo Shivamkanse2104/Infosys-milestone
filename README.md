@@ -319,3 +319,5 @@ whether anyone create new repo and add other members.. here is some network isus
 jahnavi can you do the reprository thing. i will make the ppt . poobesh will do the document.and poobesh ask chatgpt by giving all the matter
 
 Yeah i will create the repository and then poobesh can share the link with sir. Starting from tommorow im having mid exams.  So if you need any help in particular i can help
+
+ok u prepare for your exams. just share your thoughts to make the ppt.
