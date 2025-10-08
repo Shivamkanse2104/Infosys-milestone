@@ -316,3 +316,6 @@ ok fine
 guys anyone give me our problem statement..because i want to do the documentation....
 whether anyone create new repo and add other members.. here is some network isuse i am unable to create it
 
+jahnavi can you do the reprository thing. i will make the ppt . poobesh will do the document.and poobesh ask chatgpt by giving all the matter
+
+
