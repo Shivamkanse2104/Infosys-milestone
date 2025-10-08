@@ -295,3 +295,5 @@ now you want to change the dataset right.... but i need the problem statement
 I think we need to change the dataset. Because the triples are not so meaningfull. Once check them and finalize whether we need to change the dataset or not.
 
 if we change the dataset.we need to change everything right??
+
+ok then lets not change the dataset.
