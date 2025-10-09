@@ -361,3 +361,5 @@ ok then we will present this..
 Yeah ok.
 
 do we need to present the output?
+
+i dont know just keep it ready if he asks we can present.
