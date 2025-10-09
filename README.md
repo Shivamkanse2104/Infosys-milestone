@@ -344,11 +344,12 @@ yeah it's in black bluish . i have used because it is like professional. Now I n
 as per what i remembered, sir asked someone to change the dark theme.Dont edit everything just change the background color to something light.And can you tell me what slides i need to explain during the today's presentation.
 
 jahanavi is it possible for you to change that??. I am right now in hacathon it will complete it by 6. soo....
-Slide 1 to 6 tejaswi
-Slide 7 to 10 poobesh
-Slide 11 to 15  jahnavi
-Slide 15,16 poobesh. jahnavi i have given shivam explation also.
 
 I tried to change the background and its not easy to change. Since there are many textboxs in single slide its somewhat difficult to change the template and if i change the color to some light theme some of the outputs,images that are included are not looking good. So for today lets show this ppt and if sir asks to change the theme then we will. Since its only demo session
 
 jahnavi i have uploaded another can you check once..
+
+Slide 1 to 5 tejaswi
+Slide 6 to 7 poobesh
+Slide 8 to 12  jahnavi
+Slide 13 poobesh
