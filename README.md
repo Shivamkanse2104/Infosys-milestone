@@ -334,3 +334,5 @@ yes
 
 jahnavi can you check the ppt
 
+Tejaswi for me the ppt template is in black color. Is that what you have used or its showing me black due to formate change.
+Because sir told to not use dark colors for slides. He told to make the ppt with light and pleasent themes. And can you change the image in slide 5. its in korea or something right. I dont think it looks good in our ppt. Coming to the matter, its good.
