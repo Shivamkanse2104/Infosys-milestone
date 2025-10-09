@@ -350,3 +350,5 @@ Slide 11 to 15  jahnavi
 Slide 15,16 poobesh. jahnavi i have given shivam explation also.
 
 I tried to change the background and its not easy to change. Since there are many textboxs in single slide its somewhat difficult to change the template and if i change the color to some light theme some of the outputs,images that are included are not looking good. So for today lets show this ppt and if sir asks to change the theme then we will. Since its only demo session
+
+jahnavi i have uploaded another can you check once..
