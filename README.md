@@ -365,3 +365,5 @@ do we need to present the output?
 i dont know just keep it ready if he asks we can present.
 
 this is poobesh, i want to present the 6 and 7 and 13 slides only.. right
+
+yes
