@@ -343,7 +343,7 @@ yeah it's in black bluish . i have used because it is like professional. Now I n
 
 as per what i remembered, sir asked someone to change the dark theme.Dont edit everything just change the background color to something light.And can you tell me what slides i need to explain during the today's presentation.
 
-jahanavi is it possible to do change that??. I am right now in hacathon it will complete it by 6. soo....
+jahanavi is it possible for you to change that??. I am right now in hacathon it will complete it by 6. soo....
 Slide 1 to 6 tejaswi
 Slide 7 to 10 poobesh
 Slide 11 to 15  jahnavi
