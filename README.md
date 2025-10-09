@@ -340,3 +340,5 @@ Because sir told to not use dark colors for slides. He told to make the ppt with
 Poobesh did you share new group MIT license url with sir?
 
 yeah it's in black bluish . i have used because it is like professional. Now I need to change the whole thing??
+
+as per what i remembered, sir asked someone to change the dark theme.Dont edit everything just change the background color to something light.And can you tell me what slides i need to explain during the today's presentation.
