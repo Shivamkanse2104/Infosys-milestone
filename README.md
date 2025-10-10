@@ -391,3 +391,6 @@ sir told me to add the project code... I am done the over all project documentat
 sir said dont specify "milestone". We need to include like data preprocessing step like wise. And sir only told you to add code.
 
 Is today our final presentation?
+
+jahnavi... i think today team 3 and 4 will present it... 
+tejaswi...but i have already mailed it!!! 
