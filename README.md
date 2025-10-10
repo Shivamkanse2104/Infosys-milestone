@@ -386,4 +386,4 @@ and also i upload the pdf file of documentation... whether it is okay to share w
 
 I think we need to add milestone 1 and 2 work also right ??
 
-sir told me add the project code... sir do not told me to add the milestone 1 to 4.... I am done the over all project documentation... i want to split the topics in that document.. and milestone 1 and 2 like that... yesterday once sir seen our document.... and told it is okay and add the code alone... rigth??
+sir told me to add the project code... sir do not told me to add the milestone 1 to 4.... I am done the over all project documentation... if we want to add means we split the topics in that document.. and mention milestone 1 and milestone 2 like that... yesterday once sir seen our document.... and told it is okay and add the code alone... rigth??
