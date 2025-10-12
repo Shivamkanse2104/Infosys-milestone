@@ -1,4 +1,4 @@
-ii ii ii# Infosys-milestone
+huii ii ii# Infosys-milestone
 
 What need to do for the 3rd mildstone i didnt understand??
 
@@ -402,3 +402,6 @@ i have uploaded the document pdf in that group repo...
 ok.
 
 When will be our final presentation?
+
+
+poobesh can you share the ppt. I am outside .
