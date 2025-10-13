@@ -414,3 +414,6 @@ is milestone4.py code is the final code..
 Guys project title....
 
 Hey guys, this is shivam. I am sorry for vanishing away for such a long time i had my exams and tomorrow is my last mid term exam, i saw the mail that sir sent. can anyone give me a breif on whats going on in the sessions and what we are doing and the important dates that have been decided and is it compolsory to join todays session as i still have tomorrows exam.
+ 
+
+poobesh can you present??
