@@ -418,3 +418,5 @@ Hey guys, this is shivam. I am sorry for vanishing away for such a long time i h
 i have exam on TOMORROW.... I HAVE JUST JOIN THE MEETING AND I AM STUDING FOR EXAM... CAN YOU pls present it...
 
 I came outside for project work. i am attending through my phone
+
+Guys i will be joining from tomorrow, can anyone give me a breif about whats happening. if theres any work i can do it tomorrow, just let me know
