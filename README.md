@@ -420,3 +420,7 @@ i have exam on TOMORROW.... I HAVE JUST JOIN THE MEETING AND I AM STUDING FOR EX
 I came outside for project work. i am attending through my phone
 
 Guys i will be joining from tomorrow, can anyone give me a breif about whats happening. if theres any work i can do it tomorrow, just let me know
+
+shivam... this is poobesh.... on wednesday the final review is held between 3.30 to 6.30.... in that ginal review team 1 and team 3 will present the project... balance teams also join in that meeting.. but i have exam... if possible i can join in meeting.... 
+
+tejaswi... this is poobesh...i internal exam in this week if possible i can join in that meeting... now i want to mail this to sir.. right..
