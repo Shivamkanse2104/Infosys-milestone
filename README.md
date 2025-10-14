@@ -424,3 +424,6 @@ Guys i will be joining from tomorrow, can anyone give me a breif about whats hap
 shivam... this is poobesh.... on wednesday the final review is held between 3.30 to 6.30.... in that final review team 1 and team 3 will present the project... balance teams also join in that meeting.. but i have exam... if possible i can join in meeting.... 
 
 tejaswi... this is poobesh...i have internal exam in this week if possible i can join in that meeting... now i want to mail this to sir.. right..
+
+
+yes 
