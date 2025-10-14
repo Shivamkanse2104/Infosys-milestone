@@ -429,3 +429,5 @@ tejaswi... this is poobesh...i have internal exam in this week if possible i can
 yes 
 
 Right... guys anyone can check the Group 2 repo... i have upload the altered documentation... check wheather it is okay..
+
+ok poobesh, just let me know what should i do and i will do it and do we have a session today as i didnt recive any mail yet and does anyone have any work for me to do in the project and what is my role in the project and what should i tell in the presentation
