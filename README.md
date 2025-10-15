@@ -441,3 +441,5 @@ you download the code and ppt and doc in group 2 repo... i am also in college ri
 so i should just doenload the files and present it with screen sharing and what about the presentation who is going to do that?? or will we even have to do it??
 
 and can you also specify which files should i download like tell me the names
+
+milestone_4.py...Semantic final ppt.pptx...infosys_intern_FINAL (2).pdf.... you do not screenshare anything.... if sir told means you can do it... because team 1 and team 3 can do the presentation... is it okay shivam...
