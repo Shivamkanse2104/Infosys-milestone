@@ -431,3 +431,5 @@ yes
 Right... guys anyone can check the Group 2 repo... i have upload the altered documentation... check wheather it is okay..
 
 ok poobesh, just let me know what should i do and i will do it and do we have a session today as i didnt recive any mail yet and does anyone have any work for me to do in the project and what is my role in the project and what should i tell in the presentation
+
+shivam.. this is poobesh... shivam code,ppt,documentation all works are completed and you can check in group 2 repo...Today we have final review and the team 1 and team 3 only present the project. sir already told know.. only two teams going to present in final review.. the balance team should join in that meeting.. Shivam, if sir ask to show our team code and ppt and doc, can you share in the meeting... because I have internal exams afternoon... if i have join the meeting means i can only atten the meeting for only 45 min... because our college over at 4.30pm and I am back home at 6.00pm.. during travel if possible i can atten in mobile... Are you okay shivam, if any one ask, can you share...
