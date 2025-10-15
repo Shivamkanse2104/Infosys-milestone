@@ -445,3 +445,5 @@ and can you also specify which files should i download like tell me the names
 milestone_4.py...Semantic final ppt.pptx...infosys_intern_FINAL (2).pdf.... you do not screenshare anything.... if sir told means you can do it... because team 1 and team 3 can do the presentation... is it okay shivam...
 
 so only 3 files??
+
+yes code ppt doc
