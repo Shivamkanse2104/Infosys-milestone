@@ -437,3 +437,5 @@ shivam.. this is poobesh... shivam code,ppt,documentation all works are complete
 sure i can present the code, ppt and doc but if sir askes for the output i cant because i dont know what we are implimenting. i am also in college right now writing assignments. if sir askes for output or implimnetation of the code can anyone else do it
 
 you download the code and ppt and doc in group 2 repo... i am also in college right now... i can able to atten the meeting till 4.30 and then i back to home.. during travel i can join in mobile.. i can not share the screen.. can anyone else share it.... if the mentor can ask only.. else no need... sir has already told only two teams only do the presentation... 
+
+so i should just doenload the files and present it with screen sharing and what about the presentation who is going to do that?? or will we even have to do it??
